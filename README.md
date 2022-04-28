@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Social banner for jh3y](https://drive.google.com/file/d/1A1-uxoacvayH8r2UauMpJQvuL5gy58f-/view?usp=sharing)](https://nircaf.com)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Nir.
+</p>
+<p align='center'>For enquiries, reach out <a href = "mailto: nircaf@gmail.com">Send Email</a> 
+  or over on <a href="https://www.linkedin.com/in/nircaf/">Linkedin</a>.</p>
+
+<h1 align='center'><i>Thanks!</i></h1>
